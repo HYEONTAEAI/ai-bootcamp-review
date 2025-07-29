@@ -29,37 +29,38 @@ jupyter notebook      : 주피터 노트북 열기
 - 트리구조로 구성 되어 있는데, 트리 구조란 계층적 구조를 의미
 
 **예**
-<!doctype html>
-<html>
-      <head>
-            <link href="styles/style.css" rel= "stylesheet" type= "text/css"
-            <title> 제목 </title>
-      </head>
-      <body>
-            <p> 오늘 전역했다.</p>
-            <script src="scripts/script.js"></script>
-      </body>
-</html>
+**<!doctype html>"**
+**<html>"**
+      **<head>**
+            **<link href="styles/style.css" rel= "stylesheet" type= "text/css"**
+            **<title> 제목 </title>**
+      **</head>**
+      **<body>**
+            **<p> 오늘 전역했다.</p>**
+            **<script src="scripts/script.js"></script>**
+      **</body>**
+**</html>**
 
 **CSS, JavaScript**
 
 CSS
-- p {
+-
+- **p {
         color:red;
-  }
+  }**
 
 JavaScript
-- alert("경고 메세지")  
+- **alert("경고 메세지")**  
 
 
 **해석**
-- <!doctype html>   # 지금부터 내가 쓰는 타입은 html 이다.
-- link href = " "   # 주소.
-- rel= "stylesheet  # 이것은 스타일시트다.
-- type= "text/css   # 타입은 css 다.
-- script src=       # 주소.
-- p{ color:red;}    # 본문 색깔은 빨간색
-- alert("경고메세지")# 경고창 띄우기
+- **<!doctype html>**   # 지금부터 내가 쓰는 타입은 html 이다.
+- **link href = " "**   # 주소.
+- **rel= "stylesheet**  # 이것은 스타일시트다.
+- **type= "text/css**   # 타입은 css 다.
+- **script src=**       # 주소.
+- **p{ color:red;}**    # 본문 색깔은 빨간색
+- **alert("경고메세지")**# 경고창 띄우기
   
 
 ## 6. 자주 사용하는 HTML 태그
