@@ -26,35 +26,13 @@ jupyter notebook      : 주피터 노트북 열기
 -  마크업 언어를 사용하면 어디가 제목이고, 어느 부분이 내용인지를 쉽게 알 수 있음
 
 ## 5. HTML
-- 트리구조로 구성 되어 있는데, 트리 구조란 계층적 구조를 의미
-
-**예**
--**<!doctype html>"**
--**<html>"**
-      -**<head>**
-            -**<link href="styles/style.css" rel= "stylesheet" type= "text/css"**
-            -**<title> 제목 </title>**
-      -**</head>**
-      -**<body>**
-            -**<p> 오늘 전역했다.</p>**
-            -**<script src="scripts/script.js"></script>**
-      -**</body>**
--**</html>**
-
--**CSS, JavaScript**
-
-CSS
--
-- **p {
-        color:red;
-  }**
-
-JavaScript
-- **alert("경고 메세지")**  
+- 웹 페이지를 **구성하는 뼈대(골격)**를 만드는 언어.
+- 문서 구조를 정의하고, 텍스트나 이미지, 버튼, 링크 등을 어떻게 배치할지 브라우저에 알려준다.
+- HTML은 트리구조로 구성 되어 있는데, 트리 구조란 계층적 구조를 의미
 
 
-**해석**
-- **<!doctype html>**   # 지금부터 내가 쓰는 타입은 html 이다.
+**오늘 사용한 태그, 속성**
+- **<!doctype html>**   # 문서 유형 선언
 - **link href = " "**   # 주소.
 - **rel= "stylesheet**  # 이것은 스타일시트다.
 - **type= "text/css**   # 타입은 css 다.
