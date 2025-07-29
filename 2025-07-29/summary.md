@@ -29,19 +29,19 @@ jupyter notebook      : 주피터 노트북 열기
 - 트리구조로 구성 되어 있는데, 트리 구조란 계층적 구조를 의미
 
 **예**
-**<!doctype html>"**
-**<html>"**
-      **<head>**
-            **<link href="styles/style.css" rel= "stylesheet" type= "text/css"**
-            **<title> 제목 </title>**
-      **</head>**
-      **<body>**
-            **<p> 오늘 전역했다.</p>**
-            **<script src="scripts/script.js"></script>**
-      **</body>**
-**</html>**
+-**<!doctype html>"**
+-**<html>"**
+      -**<head>**
+            -**<link href="styles/style.css" rel= "stylesheet" type= "text/css"**
+            -**<title> 제목 </title>**
+      -**</head>**
+      -**<body>**
+            -**<p> 오늘 전역했다.</p>**
+            -**<script src="scripts/script.js"></script>**
+      -**</body>**
+-**</html>**
 
-**CSS, JavaScript**
+-**CSS, JavaScript**
 
 CSS
 -
