@@ -95,7 +95,7 @@ hashlib.sha256(b"data")# SHA-256 해시 생성
 
 - HTML 가져오기: 페이지 전체 HTML 코드 다운로드
 
-- HTML 파싱: 원하는 정보만 추출 (ex. BeautifulSoup으로 <h1>, <div> 등 찾기)
+- HTML 파싱: 원하는 정보만 추출 (ex. BeautifulSoup으로 h1, div 등 찾기)
 
 - 데이터 저장: 엑셀, CSV, DB 등에 저장
 
